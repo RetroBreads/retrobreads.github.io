@@ -1,3 +1,6 @@
+<h1 style="text-align: center;">RetroBreads</h1>
+<h2 style="text-align: center;">epic coderman</h2>
+<h2 style="text-align: center;"><a href="https://twitter.com/retrobreads">follow</a></h2>
 <h1 style="color: #008080; text-align: center;"><span style="font-size: 36px; font-family: 'times new roman', times, serif; color: #ff6600;">TechnoLogical </span><span style="color: #333333;"><span style="font-size: 18px; font-family: 'courier new', courier, monospace;">by RetroBreads</span></span></h1>
 <h2 style="color: #008080; text-align: center;"><span style="font-family: impact, sans-serif; color: #ff6600;">An EPIC ModPack!:</span></h2>
 <p style="text-align: center;"><span style="font-family: 'times new roman', times, serif;">An all-in-one resource pack for the most recent Minecraft version,</span></p>
